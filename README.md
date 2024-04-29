@@ -1,10 +1,7 @@
-# flynns-world
+# Hotel Management Project
 
-## installation
-(https://pip.pypa.io/en/stable/) to install flynns-world 
-
-~~~bash
-pip install flynns-world
-~~~
-
-`
+## Client Requiremnets
+| First Header  | Second Header | Second Header |
+| requirment ID | Description | mandatory [M] or [D] |
+| Content Cell  | Content Cell  | Second Header |
+| Content Cell  | Content Cell  | Second Header |
